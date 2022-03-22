@@ -2,7 +2,7 @@
 
 
 ## :page_facing_up:	Projetos
-  1. [Testador de foto acoplador](./OptoCouplerTester/README.md): Testador de foto acoplador para sockets de `4-PIN e 6-PIN`;
+  1. [Testador de foto acoplador](./OptoCouplerTester/): Testador de foto acoplador para sockets de `4-PIN e 6-PIN`;
   
 `OBS`: Para mais informações, acesse o arquivo `readme` de cada script.
 
