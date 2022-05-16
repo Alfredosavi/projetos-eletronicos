@@ -5,7 +5,7 @@
   1. [Testador de foto acoplador](./OptoCouplerTester/): Testador de foto acoplador para sockets de `4-PIN e 6-PIN`;
   2. [Amplificador classe AB](./AmplificadorClasseAB/): Amplificador classe AB de 20W.
   
-`OBS`: Para mais informações, acesse o arquivo `readme` de cada script.
+`OBS`: Para mais informações, acesse o arquivo `readme` de cada projeto.
 
 
 ## 🔥 Schematics e Layouts
